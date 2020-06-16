@@ -25,7 +25,7 @@ hunter_add_version(
     PACKAGE_NAME
     libusb
     VERSION
-    1.0.22
+    1.0.23
     URL
     "https://github.com/libusb/libusb/archive/v1.0.23.tar.gz"
     SHA1
